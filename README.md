@@ -5,25 +5,25 @@ The purpose of this analysis is to train and evaluate logistic regression models
 
 Two versions of the dataset will be compared - one using the original dataset and another using the resampled data with the RandomOverSampler module from the imbalanced-learn library. For both cases, we will count the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
-## Results
+# Results
 ## Original Data Model
 
 Balanced Accuracy Score: 0.9520479254722232, 
 Precision Score:
-Healthy Loans: 1.00
+Healthy Loans: 1.00, 
 High-risk Loans: 0.85, 
 Recall Score:
-Healthy Loans: 0.99
+Healthy Loans: 0.99, 
 High-risk Loans: 0.91
 
 ## Resampled Data Model
 
 Balanced Accuracy Score: 0.9936781215845847,
 Precision Score:
-Healthy Loans: 1.00
+Healthy Loans: 1.00, 
 High-risk Loans: 0.84, 
 Recall Score:
-Healthy Loans: 1.00
+Healthy Loans: 1.00, 
 High-risk Loans: 0.99
 
 ## Summary
