@@ -8,20 +8,20 @@ Two versions of the dataset will be compared - one using the original dataset an
 ## Results
 ## Original Data Model
 
-Balanced Accuracy Score: 0.9520479254722232
+Balanced Accuracy Score: 0.9520479254722232, 
 Precision Score:
 Healthy Loans: 1.00
-High-risk Loans: 0.85
+High-risk Loans: 0.85, 
 Recall Score:
 Healthy Loans: 0.99
 High-risk Loans: 0.91
 
 ## Resampled Data Model
 
-Balanced Accuracy Score: 0.9936781215845847
+Balanced Accuracy Score: 0.9936781215845847,
 Precision Score:
 Healthy Loans: 1.00
-High-risk Loans: 0.84
+High-risk Loans: 0.84, 
 Recall Score:
 Healthy Loans: 1.00
 High-risk Loans: 0.99
